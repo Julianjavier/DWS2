@@ -1,0 +1,9 @@
+body{
+    background-color:darkgray;
+}
+
+.warp{
+    margin:0 auto;
+    background-color:darkslategrey;
+    width:70%;
+}
