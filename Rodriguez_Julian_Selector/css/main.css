@@ -1,0 +1,209 @@
+html{
+    padding:20px 0;
+    background: rgb(71,63,49);
+    background-image: url(../images/tile.jpg);
+}
+
+body{
+	background:#FFFFFF;
+	font-family:'Prosto One',Arial,sans-serif;
+	margin:0 auto;
+	width:66.667%;
+	padding:0;
+}
+
+h1{
+	color: #5EC153;
+	text-shadow: 3px 3px 2px #CCCCCC;
+	text-transform:uppercase;
+	font-size:2em;
+
+	
+}
+
+.icon{
+	background-position:top 5px left;
+	background-repeat: no-repeat;
+	padding-left:40px;
+}
+
+#icon{
+	background-image:url(../images/swirly-tree-vector.jpg);
+}
+
+h2{
+	color: #A1DD97;
+	font-size:1.5em;
+}
+
+*h2{
+    color:firebrick;
+}
+
+h3{
+	color: rgb(71,63,49);
+	font-size:1.2em
+}
+
+p{
+	font-family: Arial;
+	background-color:#FFFFFF;
+	color: #0F6815;
+	line-height: 16px;
+	text-align: justify;
+	padding: 15px;
+	border: 2px solid #0F6815;
+	border-top: 0px;
+	border-radius: 0px 0px 15px 15px;	
+}
+
+p:first-line{
+    font-style:oblique;
+    font-size:1.1em;
+    color:brown;
+
+}
+
+a{
+	color: #0F6815;
+	text-decoration: none;
+	padding: 10px;
+}
+
+a:link {
+	color:#A1DD97;
+}      /* unvisited link */
+
+a:visited {
+	color: #636C80;
+}  /* visited link */
+
+a:hover {
+	color: #FF00FF;
+}  /* mouse over link */
+
+a:active {
+	color: #1D7DC2;
+}
+
+a[title~=Arcs]{
+    color:sandybrown;
+    font-style:oblique;
+    margin-top:100px;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0px;
+}
+
+ul>li{
+	color: #0090B7;
+	display: inline-block;
+	
+}
+
+li a {
+	background-color: #0F6815;
+	display: block;
+	height: 55%;
+	margin: 0% 1%;
+	border-radius: 0px 10px 0px 10px;
+	box-shadow:  3px 3px 2px #CCCCCC;
+}
+
+
+dt {
+	font-family: Arial;
+	color: #A1DD97;
+	text-transform: uppercase;
+	padding: 10px;
+}
+
+
+dd {
+	color: rgb(71,63,49);
+	font-family: Arial;
+	font-style: italic;
+	padding: 15px;
+	border-radius: 0px 10px 0px 10px;
+	box-shadow:  3px 3px 2px #111111;	
+	background-color: #FFFFFF;
+	background: linear-gradient(to right, #EFEFEF  , #FFFFFF);
+	
+}
+
+section , header{
+	padding:20px;
+}
+
+.pOverview{
+	width:25%;
+	float:left;
+}
+.pGameplay{
+	width:65%;
+	float:left;
+}
+
+.pPlot{
+	width:40%;
+	float:left;
+}
+
+.list{
+	width:50%;
+	float:left;
+	margin-top:10%;
+}
+
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+}
+
+
+table{
+	width:100%;
+	padding:10px;
+	border-spacing: 5px;
+
+}
+
+th{
+	border:2px solid #AED9AC;
+	font:bold 15px arial ,san-serif;
+	text-transform:uppercase;
+}
+
+th a[title=class]{
+    color:cornflowerblue;
+}
+
+td{
+	border:2px solid #AED9AC;
+	font-family: Arial;
+	padding: 10px;
+	text-align: center;
+}
+
+td:hover{
+	color:#ffffff;
+	background-color:#AED9AC;
+}
+
+footer{
+	margin-top:10px;
+	padding:5px;
+	color:#ffffff;
+	background-color:#AED9AC;
+}
+
+
+
+
