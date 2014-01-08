@@ -1,9 +1,30 @@
 body{
-    background-color:darkgray;
+    background-color:#F9F2E5;
 }
 
-.warp{
+div{
     margin:0 auto;
-    background-color:darkslategrey;
-    width:70%;
+    background-color:white;
+    padding:0.01% 1.1% 0.01% 1.1%;
+    width:60%;
+}
+
+figure{
+    width:30%;
+    border:4px solid #724E1F;
+    float:left;
+}
+
+figure img{
+    max-width:100%;
+}
+
+h1{
+    color:#CCB287;
+    font-size:2.5em;
+}
+
+p{
+    color:#AA7B37;
+    text-align:justify;
 }
