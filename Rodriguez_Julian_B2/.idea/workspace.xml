@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="24" selection-start="1843" selection-end="1843" vertical-scroll-proportion="-13.75">
+            <state line="22" column="24" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.73660713">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="0.4827586">
+            <state line="55" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -323,16 +323,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="24" selection-start="1843" selection-end="1843" vertical-scroll-proportion="-13.75">
+        <state line="55" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="0.4827586">
+        <state line="22" column="24" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.73660713">
           <folding />
         </state>
       </provider>
