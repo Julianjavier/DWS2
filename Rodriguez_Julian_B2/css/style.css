@@ -28,3 +28,70 @@ p{
     color:#AA7B37;
     text-align:justify;
 }
+
+/*====================*/
+
+@media screen and (min-width:740px) and (max-width:900px){
+    body{
+        background-color:#897052;
+    }
+
+    div{
+        padding-right:2%;
+        padding-left:2%;
+
+    }
+
+    figure{
+        width:40%;
+    }
+
+}
+
+/*===================*/
+
+@media screen and (min-width:600px) and (max-width:739px){
+
+    body{
+        background-color:#A88A65;
+    }
+
+    div{
+        padding-right:2.5%;
+        padding-left:2.5%;
+    }
+
+    figure{
+        width:50%;
+    }
+
+    h1{
+       font-size:2em;
+       text-align:center;
+    }
+
+}
+
+/*===================*/
+
+@media screen and (min-width:0px) and (max-width:600px){
+
+    body{
+        background-color:#6D593F;
+    }
+
+    div{
+        padding-right:2.5%;
+        padding-left:2.5%;
+    }
+
+    figure{
+        width:70%;
+        float:none;
+    }
+
+    h1{
+        font-size:2em;
+        text-align:center;
+    }
+}

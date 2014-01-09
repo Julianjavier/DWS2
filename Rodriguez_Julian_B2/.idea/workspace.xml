@@ -4,8 +4,8 @@
     <list default="true" id="213e32b4-6605-4e35-b00c-690281b644c1" name="Default" comment="" />
     <ignored path="Rodriguez_Julian_B2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1389226977166" ignored="false" />
-    <file path="/style.css" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1389215425950" ignored="false" />
+    <file path="/index.html" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1389236859406" ignored="false" />
+    <file path="/style.css" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1389239967855" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="493" selection-start="899" selection-end="899" vertical-scroll-proportion="-10.625">
+            <state line="22" column="24" selection-start="1843" selection-end="1843" vertical-scroll-proportion="-13.75">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="1" selection-start="345" selection-end="345" vertical-scroll-proportion="0.625">
+            <state line="55" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="0.4827586">
               <folding />
             </state>
           </provider>
@@ -53,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -325,14 +325,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="493" selection-start="899" selection-end="899" vertical-scroll-proportion="-10.625">
+        <state line="22" column="24" selection-start="1843" selection-end="1843" vertical-scroll-proportion="-13.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="345" selection-end="345" vertical-scroll-proportion="0.625">
+        <state line="55" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="0.4827586">
           <folding />
         </state>
       </provider>
