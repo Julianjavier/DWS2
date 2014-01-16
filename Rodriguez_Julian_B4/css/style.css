@@ -1,0 +1,35 @@
+
+
+#mainContent{
+    width:100%
+}
+
+#allBody{
+    margin: 0 auto;
+    width:60%;
+}
+
+.jumbotron {
+    background-image:url("../images/dragons.jpg");
+}
+
+.jumbotron h1, .jumbotron .h1 {
+    font-family:"Times New Roman" serif;
+}
+
+@media screen and (max-width:654px){
+    .jumbotron h1, .jumbotron .h1 {
+        font-size:1.4em;
+        font-weight: 600;
+    }
+}
+
+@media screen and (max-width:589px){
+    .jumbotron h1, .jumbotron .h1 {
+        font-size:1.4em;
+    }
+
+    #callAct{
+        padding:0;
+    }
+}

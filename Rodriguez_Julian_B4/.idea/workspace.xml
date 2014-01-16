@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72aae122-b731-4744-baa5-0e351f827642" name="Default" comment="" />
-    <ignored path="Rodriguez_Julian_B3.iws" />
+    <list default="true" id="d138853f-bfae-4e62-8ed6-02df53bc121b" name="Default" comment="" />
+    <ignored path="Rodriguez_Julian_B4.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725227589" ignored="false" />
-    <file path="/base.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389306553657" ignored="false" />
-    <file path="/skeleton.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389305683019" ignored="false" />
-    <file path="/layout.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389306385843" ignored="false" />
-    <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/css/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725642780" ignored="false" />
-    <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/css/bootstrap.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389731346632" ignored="false" />
-    <file path="/bootstrap.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389731283938" ignored="false" />
-    <file path="/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725588105" ignored="false" />
-    <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725227589" ignored="false" />
+    <file path="/index.html" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389897380919" ignored="false" />
+    <file path="/style.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389894468388" ignored="false" />
+    <file path="/bootstrap.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389891914995" ignored="false" />
+    <file path="$USER_HOME$/Rodriguez_Julian_DWS/DWS2/Rodriguez_Julian_B3/stylesheets/base.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389722657013" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B5/index.html" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389840503319" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B5/css/style.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389839843607" ignored="false" />
+    <file path="/bootstrap-theme.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389889577062" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,41 +26,41 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Rodriguez_Julian_B3" />
+    <favorites_list name="Rodriguez_Julian_B4" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="16" selection-start="1590" selection-end="1610" vertical-scroll-proportion="-7.25">
+            <state line="4" column="114" selection-start="57" selection-end="57" vertical-scroll-proportion="0.08928572">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylesheets/base.css">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="21" selection-start="1819" selection-end="1826" vertical-scroll-proportion="0.0">
+            <state line="28" column="21" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stylesheets/layout.css">
+      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="34" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.35344827">
+            <state line="18" column="68" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skeleton.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylesheets/skeleton.css">
+      <file leaf-file-name="bootstrap-theme.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="271" column="8" selection-start="8288" selection-end="8288" vertical-scroll-proportion="0.0">
+            <state line="201" column="21" selection-start="6134" selection-end="6134" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,17 +76,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/css/bootstrap-theme.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/stylesheets/skeleton.css" />
-        <option value="$PROJECT_DIR$/stylesheets/layout.css" />
-        <option value="$PROJECT_DIR$/stylesheets/base.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
+    <option name="x" value="12" />
     <option name="y" value="22" />
-    <option name="width" value="1420" />
+    <option name="width" value="1436" />
     <option name="height" value="844" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -117,45 +115,46 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B3" />
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B3" />
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B3" />
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B3" />
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B3" />
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B3" />
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B3" />
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -163,14 +162,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rodriguez_Julian_B4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -181,25 +211,32 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="72aae122-b731-4744-baa5-0e351f827642" name="Default" comment="" />
-      <created>1389284286652</created>
-      <updated>1389284286652</updated>
+      <changelist id="d138853f-bfae-4e62-8ed6-02df53bc121b" name="Default" comment="" />
+      <created>1389638555576</created>
+      <updated>1389638555576</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="22" width="1420" height="844" extended-state="0" />
+    <frame x="12" y="22" width="1436" height="844" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982105" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24699222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -275,110 +312,96 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stylesheets/layout.css">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="64" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/skeleton.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="8" selection-start="8288" selection-end="8288" vertical-scroll-proportion="0.0">
+        <state line="29" column="3" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="30" selection-start="2256" selection-end="2256" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="29" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="64" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/skeleton.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="8" selection-start="8288" selection-end="8288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="118" selection-start="2224" selection-end="2224" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="29" selection-start="1727" selection-end="1727" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="64" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/skeleton.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="8" selection-start="8288" selection-end="8288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_B2/css/style.css">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_B2/index.html">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.7283763" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="696" column="16" selection-start="20669" selection-end="20669" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.Trash/Rodriguez_Julian_B2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="266" selection-end="266" vertical-scroll-proportion="0.24553572" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Rodriguez_Julian_DWS/DWS2/Rodriguez_Julian_B3/Links.rtf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Rodriguez_Julian_DWS/DWS2/Rodriguez_Julian_B3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="23" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="201" column="21" selection-start="6134" selection-end="6134" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="68" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="21" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="16" selection-start="1590" selection-end="1610" vertical-scroll-proportion="-7.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="21" selection-start="1819" selection-end="1826" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/skeleton.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="8" selection-start="8288" selection-end="8288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="34" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.35344827">
+        <state line="4" column="114" selection-start="57" selection-end="57" vertical-scroll-proportion="0.08928572">
           <folding />
         </state>
       </provider>
