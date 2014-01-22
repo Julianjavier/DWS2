@@ -4,13 +4,15 @@
     <list default="true" id="d138853f-bfae-4e62-8ed6-02df53bc121b" name="Default" comment="" />
     <ignored path="Rodriguez_Julian_B4.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389897380919" ignored="false" />
-    <file path="/style.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389894468388" ignored="false" />
+    <file path="/index.html" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1390343175824" ignored="false" />
+    <file path="/style.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1390354109616" ignored="false" />
     <file path="/bootstrap.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389891914995" ignored="false" />
-    <file path="$USER_HOME$/Rodriguez_Julian_DWS/DWS2/Rodriguez_Julian_B3/stylesheets/base.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389722657013" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B3/stylesheets/base.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389722657013" ignored="false" />
     <file path="$PROJECT_DIR$/../Rodriguez_Julian_B5/index.html" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389840503319" ignored="false" />
     <file path="$PROJECT_DIR$/../Rodriguez_Julian_B5/css/style.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389839843607" ignored="false" />
     <file path="/bootstrap-theme.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1389889577062" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/index.html" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1390353578857" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/css/style.css" changelist="d138853f-bfae-4e62-8ed6-02df53bc121b" time="1390354150130" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +32,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="114" selection-start="57" selection-end="57" vertical-scroll-proportion="0.08928572">
+            <state line="5" column="0" selection-start="58" selection-end="133" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="21" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+            <state line="26" column="0" selection-start="358" selection-end="394" vertical-scroll-proportion="0.5603448">
               <folding />
             </state>
           </provider>
@@ -84,7 +86,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
+    <option name="x" value="4" />
     <option name="y" value="22" />
     <option name="width" value="1436" />
     <option name="height" value="844" />
@@ -199,8 +201,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -230,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="22" width="1436" height="844" extended-state="6" />
+    <frame x="4" y="22" width="1436" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -368,12 +370,12 @@
         <state line="11" column="17" selection-start="266" selection-end="266" vertical-scroll-proportion="0.24553572" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Rodriguez_Julian_DWS/DWS2/Rodriguez_Julian_B3/Links.rtf">
+    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_B3/Links.rtf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Rodriguez_Julian_DWS/DWS2/Rodriguez_Julian_B3/index.html">
+    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_B3/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="23" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.625" />
       </provider>
@@ -392,16 +394,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="58" selection-end="133" vertical-scroll-proportion="-3.125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="114" selection-start="57" selection-end="57" vertical-scroll-proportion="0.08928572">
+        <state line="26" column="0" selection-start="358" selection-end="394" vertical-scroll-proportion="0.5603448">
           <folding />
         </state>
       </provider>

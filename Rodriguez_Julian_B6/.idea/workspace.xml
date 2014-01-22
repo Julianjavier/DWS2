@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="213e32b4-6605-4e35-b00c-690281b644c1" name="Default" comment="" />
-    <ignored path="Rodriguez_Julian_B2.iws" />
+    <list default="true" id="0a6c367c-b4f8-406e-acc0-153b4d34fcfe" name="Default" comment="" />
+    <ignored path="Rodriguez_Julian_B6.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1390347257999" ignored="false" />
-    <file path="/style.css" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1390347844497" ignored="false" />
-    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/css/style.css" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1390347860986" ignored="false" />
-    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/index.html" changelist="213e32b4-6605-4e35-b00c-690281b644c1" time="1390348124463" ignored="false" />
+    <file path="/index.html" changelist="0a6c367c-b4f8-406e-acc0-153b4d34fcfe" time="1390354830667" ignored="false" />
+    <file path="/style.css" changelist="0a6c367c-b4f8-406e-acc0-153b4d34fcfe" time="1390355202373" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +21,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Rodriguez_Julian_B2" />
+    <favorites_list name="Rodriguez_Julian_B6" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.73660713">
+            <state line="19" column="22" selection-start="479" selection-end="479" vertical-scroll-proportion="0.42410713">
               <folding />
             </state>
           </provider>
@@ -39,7 +37,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="20" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+            <state line="67" column="110" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,9 +59,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="169" />
+    <option name="x" value="17" />
     <option name="y" value="22" />
-    <option name="width" value="1271" />
+    <option name="width" value="1440" />
     <option name="height" value="844" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -92,31 +90,46 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B2" />
+              <option name="myItemId" value="Rodriguez_Julian_B6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B2" />
+              <option name="myItemId" value="Rodriguez_Julian_B6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B2" />
+              <option name="myItemId" value="Rodriguez_Julian_B6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B2" />
+              <option name="myItemId" value="Rodriguez_Julian_B6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rodriguez_Julian_B2" />
+              <option name="myItemId" value="Rodriguez_Julian_B6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rodriguez_Julian_B6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rodriguez_Julian_B6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -126,37 +139,51 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rodriguez_Julian_B3" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="213e32b4-6605-4e35-b00c-690281b644c1" name="Default" comment="" />
-      <created>1389211089621</created>
-      <updated>1389211089621</updated>
+      <changelist id="0a6c367c-b4f8-406e-acc0-153b4d34fcfe" name="Default" comment="" />
+      <created>1390272241294</created>
+      <updated>1390272241294</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="169" y="22" width="1271" height="844" extended-state="0" />
+    <frame x="17" y="22" width="1440" height="844" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24599358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24629499" sideWeight="0.6712707" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -229,98 +256,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_B5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="32" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
+        <state line="8" column="4" selection-start="314" selection-end="360" vertical-scroll-proportion="0.17857143">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="69" selection-end="113" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="11" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="69" selection-end="113" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="11" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="69" selection-end="113" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="11" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="8" selection-start="69" selection-end="113" vertical-scroll-proportion="0.02232143" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Rodriguez_Julian_Selector/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="11" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.021551725" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="20" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+        <state line="67" column="110" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="1843" selection-end="1843" vertical-scroll-proportion="0.73660713">
+        <state line="19" column="22" selection-start="479" selection-end="479" vertical-scroll-proportion="0.42410713">
           <folding />
         </state>
       </provider>

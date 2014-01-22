@@ -4,15 +4,17 @@
     <list default="true" id="72aae122-b731-4744-baa5-0e351f827642" name="Default" comment="" />
     <ignored path="Rodriguez_Julian_B3.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725227589" ignored="false" />
+    <file path="/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390354830667" ignored="false" />
     <file path="/base.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389306553657" ignored="false" />
     <file path="/skeleton.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389305683019" ignored="false" />
     <file path="/layout.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389306385843" ignored="false" />
     <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/css/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725642780" ignored="false" />
     <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/css/bootstrap.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389731346632" ignored="false" />
     <file path="/bootstrap.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389731283938" ignored="false" />
-    <file path="/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725588105" ignored="false" />
+    <file path="/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390355202372" ignored="false" />
     <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725227589" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/css/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390355272949" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390354830667" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="16" selection-start="1590" selection-end="1610" vertical-scroll-proportion="-7.25">
+            <state line="46" column="16" selection-start="1590" selection-end="1610" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,7 +55,7 @@
       <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="34" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.35344827">
+            <state line="29" column="5" selection-start="696" selection-end="759" vertical-scroll-proportion="0.26005748">
               <folding />
             </state>
           </provider>
@@ -86,7 +88,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
     <option name="height" value="844" />
@@ -193,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="22" width="1420" height="844" extended-state="0" />
+    <frame x="0" y="22" width="1420" height="844" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -357,7 +358,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="16" selection-start="1590" selection-end="1610" vertical-scroll-proportion="-7.25">
+        <state line="46" column="16" selection-start="1590" selection-end="1610" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -378,7 +379,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="34" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.35344827">
+        <state line="29" column="5" selection-start="696" selection-end="759" vertical-scroll-proportion="0.26005748">
           <folding />
         </state>
       </provider>
