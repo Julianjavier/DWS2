@@ -11,9 +11,9 @@
     <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/css/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725642780" ignored="false" />
     <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/css/bootstrap.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389731346632" ignored="false" />
     <file path="/bootstrap.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389731283938" ignored="false" />
-    <file path="/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390355202372" ignored="false" />
+    <file path="/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390370978766" ignored="false" />
     <file path="$USER_HOME$/Desktop/Rodriguez_Julian_B4/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1389725227589" ignored="false" />
-    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/css/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390355272949" ignored="false" />
+    <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/css/style.css" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390370980110" ignored="false" />
     <file path="$PROJECT_DIR$/../Rodriguez_Julian_B6/index.html" changelist="72aae122-b731-4744-baa5-0e351f827642" time="1390354830667" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1420" height="844" extended-state="1" />
+    <frame x="0" y="22" width="1420" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />

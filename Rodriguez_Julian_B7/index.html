@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width , initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Forms</title>
+</head>
+<body>
+    <div class="wrapper">
+        <h1>Whats your favorite color?</h1>
+        <fieldset>
+            <legend>Info Iquery</legend>
+
+            <div class="formDiv">
+                <label>Name</label><br>
+                <input class="text" name="name" type="text" required >
+            </div>
+
+            <div class="formDiv">
+                <label>Phone Number</label><br>
+                <input class="text" name="server" type="text" required>
+            </div>
+
+            <div class="formDiv">
+                <label>Date of Birth</label><br>
+                <input type="date" name="bday" required>
+            </div>
+
+            <hr>
+
+            <div class="formDiv">
+                <label>Where do you work?</label><br>
+                <input class="text" name="server" type="text" required >
+            </div>
+
+            <div class="formDiv">
+                <label>When did you start working?</label><br>
+                <input type="date" name="bday" required>
+            </div>
+
+            <div class="formDiv">
+                <label>How long have you been working?</label><br>
+                <input type="checkbox" name="year" value="1">One Year<br>
+                <input type="checkbox" name="year" value="4">More than 4 years
+            </div>
+
+            <div class="formDiv">
+                <label>Which of these colors do you like the best?</label>
+                <form>
+                    <input type="radio" name="color" value="Blue" required>Blue<br>
+                    <input type="radio" name="color" value="Green" required>Green<br>
+                    <input type="radio" name="color" value="Red" required>Red<br>
+                    <input type="radio" name="color" value="Azure" required>Azure
+
+                </form>
+            </div>
+
+            <div class="formDiv">
+                <label>Why do you like that color?</label><br>
+                <textarea class="textArea" name="server" type="text" maxlength="30" row="10" clo="30"required></textarea>
+            </div>
+
+        </fieldset>
+
+    </div>
+
+</body>
+</html>

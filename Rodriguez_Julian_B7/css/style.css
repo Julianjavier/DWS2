@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    pading:0;
+}
+
+body{
+    font-family: "Verdana", "san-serif";
+    margin:2% 0 2% 0;
+    width:100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-image:url("../img/ffback.jpg");
+    background-color:#2B324F;
+    color:#363A54;
+}
+
+.wrapper{
+    margin:0px auto;
+    width:60%;
+    background-color:#FFFFFF;
+    padding:3%;
+}
+
+h1{
+    font-family: "times new roman" "serif";
+    margin:0 0 2% 0;
+}
+
+hr{
+    margin:2% 0 2% 0;
+}
+
+.form{
+    width:50%;
+    background-color:#D7DEFF;
+}
+
+.text{
+    width:40%;
+}
+
+.textArea{
+    width:70%;
+    height:50px;
+}
+
+form{
+    margin: 1% 0 1% 0;
+}
+
+.formDiv{
+    margin-bottom:3%;
+}
+

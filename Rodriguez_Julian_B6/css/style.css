@@ -7,6 +7,7 @@ body{
     font-family: "Verdana", "san-serif";
     width:100%;
     background-color:#E0EAFC;
+    color:#363A54;
 }
 
 .wrapper{
@@ -22,10 +23,12 @@ hr{
 }
 
 .row{
+    width:100%;
 }
 
 .hero{
     width:50%;
+    position:relative;
 }
 
 .hero img{
@@ -35,6 +38,14 @@ hr{
     margin:0 1.5% 1.5% 0;
 }
 
+.hero .rib{
+    border:0;
+    margin:0;
+    position:absolute;
+    top:0;
+    right:-6px;
+}
+
 hr{
     clear:left;
 }
@@ -42,7 +53,7 @@ hr{
 .thumb{
     width:26%;
     float:left;
-    padding: 0 3.5% 3% 3.5%;
+    margin: 0 3.5% 3% 3.5%;
     position:relative;
 }
 
@@ -60,7 +71,7 @@ hr{
     border:0;
     position:absolute;
     top:0;
-    right:9%;
+    right:-6px;
 }
 
 @media screen and (max-width:987px){
