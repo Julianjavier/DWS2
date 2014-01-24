@@ -1,0 +1,136 @@
+*{
+    margin:0;
+    pading:0;
+}
+
+body{
+    font-family: "Verdana", "san-serif";
+    margin:2% 0 2% 0;
+    width:100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-image:url("../img/ffback.jpg");
+    background-color:#2B324F;
+    color:#363A54;
+}
+
+.wrapper{
+    margin:0px auto;
+    width:80%;
+    background-color:#FFFFFF;
+    overflow:hidden;
+    padding:3%;
+}
+
+hr{
+    color:#FFFFFF;
+    margin-top:3%;
+    margin-bottom:3%;
+}
+
+.hidden{
+    style:none;
+    opacity:0.0;
+}
+
+.row{
+    width:100%;
+}
+
+.hero{
+    width:50%;
+    position:relative;
+}
+
+.hero img{
+    max-width:100%;
+    float:left;
+    border:3px solid #303849;
+    margin:0 1.5% 1.5% 0;
+}
+
+.hero .rib{
+    border:0;
+    margin:0;
+    position:absolute;
+    top:0;
+    right:-6px;
+}
+
+hr{
+    clear:left;
+}
+
+.thumb{
+    width:26%;
+    float:left;
+    margin: 0 3.5% 3% 3.5%;
+    position:relative;
+}
+
+.thumb p{
+    text-align:justify;
+}
+
+.thumb img{
+    margin-bottom:1.5%;
+    max-width:100%;
+    border:3px solid #303849;
+    transition:all 3s ease-in-out;
+}
+
+.thumb img:hover{
+    opacity: 0.5;
+    transform: scale(1.3);
+}
+
+.thumb .rib{
+    border:0;
+    position:absolute;
+    top:0;
+    right:-6px;
+}
+
+.form{
+    width:50%;
+}
+
+.text{
+    width:30%;
+}
+
+.textArea{
+    width:90%;
+    height:50px;
+}
+
+form{
+    margin: 1% 0 1% 0;
+}
+
+.formDiv{
+    margin-bottom:2%;
+}
+
+@media screen and (max-width:987px){
+
+    .thumb{
+        width:90%;
+        clear:left;
+    }
+
+}
+
+@media screen and (max-width:583px){
+
+    .hero{
+        width:100%;
+    }
+
+    .hero img{
+        clear:left;
+        margin:0 0 1.5% 0;
+    }
+
+}
+
