@@ -4,8 +4,8 @@
     <list default="true" id="ff24dcf5-26b3-4c7e-9132-69398aef9b60" name="Default" comment="" />
     <ignored path="Rodriguez_Julian_B9.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="ff24dcf5-26b3-4c7e-9132-69398aef9b60" time="1390963449550" ignored="false" />
-    <file path="/styles.css" changelist="ff24dcf5-26b3-4c7e-9132-69398aef9b60" time="1390963109989" ignored="false" />
+    <file path="/index.html" changelist="ff24dcf5-26b3-4c7e-9132-69398aef9b60" time="1391020239258" ignored="false" />
+    <file path="/styles.css" changelist="ff24dcf5-26b3-4c7e-9132-69398aef9b60" time="1391021689578" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="336" column="161" selection-start="14360" selection-end="14360" vertical-scroll-proportion="0.58035713">
+            <state line="17" column="19" selection-start="448" selection-end="448" vertical-scroll-proportion="0.3794643">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="23" selection-start="2112" selection-end="2112" vertical-scroll-proportion="0.0">
+            <state line="97" column="28" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -258,14 +258,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="23" selection-start="2112" selection-end="2112" vertical-scroll-proportion="0.0">
+        <state line="97" column="28" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="336" column="161" selection-start="14360" selection-end="14360" vertical-scroll-proportion="0.58035713">
+        <state line="17" column="19" selection-start="448" selection-end="448" vertical-scroll-proportion="0.3794643">
           <folding />
         </state>
       </provider>

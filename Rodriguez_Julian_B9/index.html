@@ -14,16 +14,17 @@
 
         <div class="nav">
             <ul>
-                <li class="first"><a href="#">Home</a></li>
-                <li><a href="#">About Me</a></li>
-                <li><a href="#">Portfolio</a>
+                <li><a href="#">Home</a></li>
+                <li><a href="http://na.finalfantasyxiv.com/lodestone">Lodestone</a></li>
+                <li><a href="http://www.arrstatus.com/">Servers</a></li>
+                <li><a href="#">Stat Charts</a>
                     <ul>
-                        <li><a href="#">Web</a></li>
-                        <li><a href="#">Print</a></li>
-                        <li><a href="#">Photos</a></li>
+                        <li><a href="#">Class</a></li>
+                        <li><a href="#">Job</a></li>
+                        <li><a href="#">Race</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Contact Me</a></li>
+                <li><a href="http://finalfantasy.wikia.com/wiki/Final_Fantasy_XIV">Lore</a></li>
             </ul>
         </div>
 
@@ -31,8 +32,8 @@
 
     <div class="hero">
         <div class="callAction">
-            <h1>A Quick Guide to Job Armour</h1>
-            <h4>From Housing to Barding.</h4>
+            <h1>Patch 2.2 Is Coming!</h1>
+            <h4><a href="#">Keep up with server status!</a></h4>
         </div>
     </div>
 
@@ -110,8 +111,6 @@
 
         </div>
 
-        <!---->
-
         <div class="thumb">
             <div class="timg">
                 <img src="img/WAR.jpg" alt="#">
@@ -125,7 +124,7 @@
 
             <div class="col-5">
 
-                <h2>Job Synopsis</h2>
+                <h2>Main Skills</h2>
 
                 <ul>
                     <li>Defiance</li>
@@ -187,8 +186,6 @@
             </div>
 
         </div>
-
-        <!---->
 
         <div class="thumb">
             <div class="timg">
@@ -319,10 +316,19 @@
                 <hr>
 
                 <h2>Rotation Notes</h2>
-                <p></p>
+                <p>Ideally you should be aiming for Greased Lightning buff so you will try to use one skill from each form in order to get there as fast as possible. One thing to remember is that positioning is key with a lot of Monk skills. You may need to be behind or on a target's flank for maximum damage though you don't want to be moving around with every action as it may not always be possible. The skill rotation for Monk is somewhere along the lines of this:</p>
 
                 <hr class="hidden">
 
+                <ul>
+                    <li>Fists Of Fire</li>
+                    <li>Boot Shine - Behind</li>
+                    <li>True Strike - Behind</li>
+                    <li>Demolish - Behind </li>
+                    <li>Touch of Death Fracture </li>
+                    <li>Dragon Kick - Flank</li>
+                    <li>Twin Snakes - Flank</li>
+                </ul>
 
             </div>
 
@@ -376,7 +382,7 @@
                 <hr>
 
                 <h2>Rotation Notes</h2>
-                <p></p>
+                <p>As a BLM your elemental spells are Fire, Ice and Thunder. Fire is your primary damage element, Ice is your supportive element and Thunder is your damage over time (DoT) element. They all serve their own important roles. It is important to understand when to use each spell.</p>
 
                 <hr class="hidden">
 
@@ -431,7 +437,7 @@
                 <hr>
 
                 <h2>Rotation Notes</h2>
-                <p></p>
+                <p>As a WHM there is no set skill rotation throughout the battle, it is entirely situational. There is some preparation work that will help you maximise your potential however. Protect should always be on all of your party members and Stoneskin should also be cast between fights. Upon engaging the monster cast Aero II to apply the damage over time effect.</p>
 
                 <hr class="hidden">
 
@@ -446,9 +452,8 @@
     <div class="row">
 
         <div class=fDiv>
-            <h2>Survey Time</h2>
             <fieldset>
-                <legend>Info Inquiry</legend>
+                <legend><h2>Survey Time!</h2></legend>
 
                 <div class="formDiv">
                     <label>Character Name</label><br>
@@ -467,26 +472,34 @@
                     <input type="date" name="bday">
                 </div>
 
+                <label>What Job do you main?</label>
+
                 <div class="formDiv">
-                    <label>How long have you been working?</label><br>
-                    <input type="checkbox" name="year" value="1">One Year<br>
-                    <input type="checkbox" name="year" value="4">More than 4 years
+                    <select>
+                        <option value="volvo">Warrior</option>
+                        <option value="saab">Paladin</option>
+                        <option value="mercedes">Monk</option>
+                        <option value="audi">Dragoon</option>
+                        <option value="audi">Black Mage</option>
+                        <option value="audi">White Mage</option>
+                    </select>
+                </div>
+
+                <label>What race are you?</label>
+
+                <div class="formDiv">
+                    <select>
+                        <option value="volvo">Hyru</option>
+                        <option value="saab">Roegadyn</option>
+                        <option value="mercedes">Miqo'te</option>
+                        <option value="audi">Lalafell</option>
+                        <option value="audi">Elezen</option>
+                    </select>
                 </div>
 
                 <div class="formDiv">
-                    <label>Which of these colors do you like the best?</label>
-                    <form>
-                        <input type="radio" name="color" value="Blue">Blue<br>
-                        <input type="radio" name="color" value="Green">Green<br>
-                        <input type="radio" name="color" value="Red">Red<br>
-                        <input type="radio" name="color" value="Azure">Azure
-
-                    </form>
-                </div>
-
-                <div class="formDiv">
-                    <label>Why do you like that color?</label><br>
-                    <textarea class="textArea" name="server" maxlength="30" clos="30" rows="10"></textarea>
+                    <label>What is your ideal rotation?</label><br>
+                    <textarea class="textArea" name="server" maxlength="1000" clos="30" rows="10"></textarea>
                 </div>
             </fieldset>
 
