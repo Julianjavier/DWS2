@@ -61,7 +61,18 @@ hr{
     margin-bottom:40px;
     clear:left;
 }
+/*.hidden is an hr for easy seperation*/
+.hidden{
+    style:none;
+    opacity:0.0;
+    margin: 10px 0 10px 0;
+}
 
+.row{
+    width:100%;
+}
+
+/*Call To Action*/
 .callAction{
     background:url("../img/bah.png") no-repeat center center fixed;
     background-size:100%;
@@ -76,17 +87,6 @@ hr{
 
 .subHead{
     background-color:#FFF;
-}
-
-
-.hidden{
-    style:none;
-    opacity:0.0;
-    margin: 10px 0 10px 0;
-}
-
-.row{
-    width:100%;
 }
 
 /*Navigation*/
@@ -109,13 +109,6 @@ hr{
     transition:all 0.1s ease-in-out;
 }
 
-.nav ul li:hover{
-    color:#d4f2ff;
-    background-color:#000;
-    -webkit-transform: scale(1.05);
-    -moz-transform: scale(1.05);
-}
-
 .nav ul li a {
     text-align: center;
     font-size:1.15em;
@@ -126,12 +119,22 @@ hr{
     color:#FFF;
 }
 
-.nav ul li a:hover {
-    color:#d4f2ff;
-}
-
 .nav ul li ul {
     display: none
+}
+
+/*Navigator Hover state*/
+
+.nav ul li a:hover {
+    color:#d4f2ff;
+    z-index:5;
+}
+
+.nav ul li:hover{
+    color:#d4f2ff;
+    background-color:#000;
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
 }
 
 .nav ul li:hover ul {
